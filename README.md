@@ -1,0 +1,2 @@
+# GROUP_10_ROYYAN_AVATAR_RIZKY_PRABOWO
+Individual Planning Report_Predicting Newsletter Subscription from Player Characteristics
